@@ -9,6 +9,7 @@ Instantly view current weather.
 # 📷 Images
 <img width="1762" height="1203" alt="Screenshot 2026-09-28 at 9 44 02 PM" src="https://github.com/user-attachments/assets/e8d5e274-0884-4919-bae5-4a5d4e8c93d6" />
 <img width="1767" height="1224" alt="Screenshot 2026-09-28 at 9 43 57 PM" src="https://github.com/user-attachments/assets/eba74bc9-cfd7-4e11-b41f-fdd274719dcd" />
+<img width="1761" height="1216" alt="Screenshot 2026-09-28 at 9 43 43 PM" src="https://github.com/user-attachments/assets/39743feb-421b-4ec1-96b8-ec3aa3c55ddd" />
 
 # ✨ Features
 Fully responsive design for desktop and mobile.   
